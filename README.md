@@ -1607,7 +1607,7 @@ body{
 
         <span>🐱</span>
 
-        Mochi
+        Khang
 
     </button>
 
@@ -1619,7 +1619,7 @@ body{
 
         <span>🐰</span>
 
-        Momo
+        Chiêu Ninh
 
     </button>
 
@@ -1740,9 +1740,9 @@ body{
             class="description"
             id="description"
         >
-            Một chiếc sinh vật thích pudding,
-            ngủ, chơi game và sống một cuộc đời
-            hơi lười nhưng cực kỳ đáng yêu 🍮
+            Xin chào, tên của tớ là Pompurin, founder của nhà vgc cũng như
+            người làm ra chiếc web này. Hiện tại tớ đang vào vai nàng vesna từ
+            tựa game genshin impact.🍮
         </p>
 
 
